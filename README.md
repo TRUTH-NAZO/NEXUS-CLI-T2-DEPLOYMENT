@@ -3,8 +3,8 @@ DEPLOY YOUR NEXUS TESTNET TWO WITH EASE
 
 # System Requirements
 Operating System: Linux
-Memory: Minimum 4CPU RAM (configurable); higher RAM may yield better rewards
-Storage: At least 100GB of free disk space (configurable); 200-500GB is ideal
+Memory: Minimum 4CPU RAM (configurable); higher CPU will yield better rewards
+Storage: At least 100GB of free disk space
 Network: 24/7 internet connectivity required
 
 You will need a VPS, you can get from PQ hosting or Contabo. Buy your VPS from any of these two below
