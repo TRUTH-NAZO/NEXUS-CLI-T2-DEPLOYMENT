@@ -18,7 +18,7 @@ https://pq.hosting/en/
 
 # Choose Proving Mode. Link to Nexus Account (Recommended)
 
-- Sign up at [app.nexus.xyz](app.nexus.xyz).  
+- Sign up at https://app.nexus.xyz  
 - Link your account by following the provided instructions.  
 - Earn NEX Points for your contributions.  
 - Monitor your progress on the leaderboard.  
